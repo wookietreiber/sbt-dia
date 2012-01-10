@@ -1,6 +1,6 @@
 name := "sbt-dia"
 
-organization := "com.github.wookietreiber"
+organization := "com.github.sbt-dia"
 
 sbtPlugin := true
 
